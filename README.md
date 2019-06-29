@@ -9,9 +9,7 @@
 5. Only users with email domain of "examplewidgets.com" can login to the application.
 6. Role based permissions.
 
-# Header 1
-## Header 2
-### Header 3
+### POC Created by Kenan Weaver
 
 - Bulleted
 - List

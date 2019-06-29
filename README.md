@@ -1,15 +1,13 @@
 ## Welcome to Bank Zero
 
-You can use the [editor on GitHub](https://github.com/KweaverA0/bankzero-auth0-kw/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Requirements
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Users can sign up with a username / password in the Auth0 DB.
+Users who previously signed up can authenticate with username/password.
+The Auth0 Lock sign-in screen has been customized user experience to align with the bank's brand.
+Users can also log in via Google and another social providers.
+Only users with email domain of "examplewidgets.com" can login to the application.
+Role based permissions.
 
 # Header 1
 ## Header 2
